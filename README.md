@@ -1,6 +1,6 @@
 # Sobrio theme for Zellij
 
-![Screen shot](./images/screenshot.png)
+![Screenshot](./images/screen.png)
 
 ## About this theme
 
